@@ -1,3 +1,5 @@
-hi This is Pallu
-:wq
+Hi!, This is Pallu
 
+Adding a new line 
+
+also correcting the lower caps h to upper caps and adding an exclamation mark with a comma
